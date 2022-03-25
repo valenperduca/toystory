@@ -1,0 +1,82 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+body {
+background: url(imagenes/fondo.png);
+background-size: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+border: 1px solid black;
+margin: 0 10% 0 10%;
+}
+
+
+.contenedor {
+    
+    display: block;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+.header {
+width: 100%;
+
+}
+
+
+.caja {
+    display: flex;
+}
+
+
+
+.p1 {
+    color: black;
+    size: 30px;
+    padding: 20px;
+   
+}
+
+.caja_personajes {
+    width: 50%;
+
+}
+
+
+.dino_rex {
+    width: 250px;
+    border-radius: 150px;
+    float: left;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+
+
+.chancho {
+    width: 250px;
+    border-radius: 150px;
+    float: left;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+
+
+.woody {
+    width: 250px;
+    border-radius: 150px;
+    float: left;
+    margin-bottom: 50px; 
+    padding: 30px;
+ }
+
+
+
+.footer {
+width: 100%;    
+}
